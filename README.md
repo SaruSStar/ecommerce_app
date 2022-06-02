@@ -6,7 +6,7 @@ A new Flutter project for a practical exam.
 
 Screenshots of the the app are provided within screenshots folder.
 
-- [Watch the demo video here](https://docs.flutter.dev/get-started/codelab)
+- [Watch the demo video here]([https://docs.flutter.dev/get-started/codelab](https://drive.google.com/file/d/17sjBpfMXkJ1Nq7YbvXBtUsh3BQssObo4/view?usp=sharing))
 
 ### Provider
 I've choosen provider state management system for this project
